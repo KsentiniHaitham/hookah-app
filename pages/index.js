@@ -10,7 +10,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Huka Hookah Lounge | Premium Shisha & Chicha Testttttt</title>
+        <title>Huka Hookah Lounge | Premium Shisha & Chicha</title>
+        <meta name="google-site-verification" content="_ETvIpWenMtydxWx4ZVsvYqaRhKNGekHQ3ygDz0d-og" />
         <meta
           name='description'
           content='Huka Hookah Lounge offers premium hookah, shisha, and chicha experiences. Relax, enjoy drinks, and live events in our cozy lounge.'
